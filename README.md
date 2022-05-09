@@ -15,6 +15,7 @@ There were two objectives given to us by Bobby’s manager: determine the number
 
 
 •	The unique titles table returned a list of 72,458 employees. These individuals met two criterions: they began working at Pewlett_Hackard after 01/01/1999, and they were born between 01/01/1952 and 12/31/1955.
+
 •	Seen below is retiring_titles table:
 
 ![image](https://user-images.githubusercontent.com/101481759/167444742-e3a65064-4604-4120-af8b-f36e7de2ae86.png)
