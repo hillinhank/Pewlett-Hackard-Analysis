@@ -9,6 +9,7 @@ There were two objectives given to us by Bobby’s manager: determine the number
 # Results
 ## Deliverable 1
 •	The unique_titles table in deliverable 1 seen here:
+
 ![image](https://user-images.githubusercontent.com/101481759/167444367-f6db1e89-a8aa-4865-ba06-6c85f932dde5.png)
 
 
