@@ -9,6 +9,8 @@ There were two objectives given to us by Bobby’s manager: determine the number
 # Results
 ## Deliverable 1
 •	The unique_titles table in deliverable 1 seen here:
+![image](https://user-images.githubusercontent.com/101481759/167444367-f6db1e89-a8aa-4865-ba06-6c85f932dde5.png)
+
 
 
 •	Returned a list of 72,458 employees. These individuals met two criterions: they began working at Pewlett_Hackard after 01/01/1999, and they were born between 01/01/1952 and 12/31/1955.
